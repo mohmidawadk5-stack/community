@@ -4,7 +4,7 @@ on:
   discussion_comment:
     types: [created]
 
-jobs:
+jobs:https://github.com/community/community/actions/workflows/remove-inactive-label.yml/badge.svg?branch=revert-69778-mgriffin%2Fstale-text
   build:
     runs-on: ubuntu-latest
     permissions:
